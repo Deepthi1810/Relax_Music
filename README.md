@@ -3,7 +3,7 @@
 A white noise app developed using Flutter. It helps you meditate, sleep better and focus. 
 
 ## Screenshot
-![Image](pixel.jpg?raw=true "Title")
+![Image](pixel.png?raw=true "Title")
 ## Getting Started
 
 This project is a starting point for a Flutter application.
